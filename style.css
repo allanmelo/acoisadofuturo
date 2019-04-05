@@ -1,0 +1,31 @@
+/* CSS files add styling rules to your content */
+
+body {
+  background-color: #212121;
+  font-family: Roboto, helvetica, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-family: Roboto Extra-Bold;
+  color: #dddddd;
+}
+
+p {
+  font-family: Roboto light;
+  color: #dddddd;
+}
+
+.start {
+    text-align: center;
+}
+
+.rebot {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+
